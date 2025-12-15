@@ -3,4 +3,4 @@ Atividade Extra de AEDs II. Esta atividade não vale de forma isolada, apenas co
 
 ## Aluno 
 
-* Nome completo do aluno 1
+* Vinícius Simões Viana
